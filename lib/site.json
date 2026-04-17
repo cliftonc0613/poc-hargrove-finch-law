@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "layoutVariant": "classic",
+  "brand": {
+    "name": "Hargrove & Finch Law",
+    "tagline": "Estate Planning & Family Law in Portland",
+    "colors": {
+      "primary": "#0F2A4A",
+      "secondary": "#3B5A7F",
+      "accent": "#B08D4B",
+      "onPrimary": "#FFFFFF",
+      "onSecondary": "#FFFFFF"
+    },
+    "fonts": {
+      "heading": "Playfair Display",
+      "body": "Source Sans 3"
+    }
+  },
+  "content": {
+    "hero": {
+      "headline": "Protect Your Family's Future With a Plan That Actually Holds Up",
+      "problem": "Without a proper estate plan, Oregon courts decide who raises your children and who inherits what you built — and your family is left vulnerable at the worst possible moment.",
+      "sub": "For over 20 years, Hargrove & Finch has helped Portland families build estate plans that work when it matters most.",
+      "cta": {
+        "label": "Schedule a Consultation",
+        "href": "#contact"
+      },
+      "transitionCta": {
+        "label": "See How It Works",
+        "href": "#plan"
+      }
+    },
+    "services": [
+      {
+        "name": "Estate Planning",
+        "description": "Wills, trusts, and powers of attorney tailored to your family, your assets, and Oregon law."
+      },
+      {
+        "name": "Family Law",
+        "description": "Thoughtful counsel on divorce, custody, and prenuptial agreements — with a focus on protecting what matters."
+      },
+      {
+        "name": "Probate & Trust Administration",
+        "description": "Guiding Oregon families through probate and trust settlement with clarity, care, and minimal court entanglement."
+      },
+      {
+        "name": "Guardianship & Conservatorship",
+        "description": "Legal protection for minor children and elderly parents, with careful attention to long-term wellbeing."
+      }
+    ],
+    "guide": {
+      "headline": "We Know How Overwhelming This Feels",
+      "empathy": "Most people put off estate planning because it forces you to think about hard things — illness, death, who takes care of your kids. We get it. You don't need lectures, and you don't need a 60-page document you'll never read again.",
+      "authority": "For over 20 years, Hargrove & Finch has drafted estate plans for more than 1,000 Oregon families. Our attorneys are Oregon State Bar certified in estate planning and have been recognized by Super Lawyers every year since 2015.",
+      "body": "Our practice was built on a simple idea: legal work should make your life easier, not harder. That means clear language, fixed fees for most matters, and plans that are built to work — not to impress. When you walk out of our office, you'll know exactly what you signed and why."
+    },
+    "plan": {
+      "headline": "Three Steps to Peace of Mind",
+      "steps": [
+        {
+          "title": "Book a 30-Minute Consultation",
+          "description": "Tell us about your family, your assets, and your concerns. No sales pitch — just an honest conversation about what you actually need."
+        },
+        {
+          "title": "We Draft Your Plan",
+          "description": "Within two weeks, we send you a complete plan in plain English. You review it on your schedule, and we answer every question before you sign."
+        },
+        {
+          "title": "You Sign and Sleep Easy",
+          "description": "One signing appointment, and your family is protected. We store your documents securely and review them with you every three years at no charge."
+        }
+      ]
+    },
+    "stakes": {
+      "headline": "Without a Plan, the State Decides",
+      "body": "If you die in Oregon without a valid estate plan, the probate court chooses who raises your minor children, distributes your assets according to a formula that ignores your wishes, and can tie up your family's finances for 12 months or longer. Don't leave this to chance."
+    },
+    "successOutcomes": {
+      "headline": "What Our Clients Walk Away With",
+      "outcomes": [
+        "Peace of mind knowing your family is legally protected",
+        "A clear plan your loved ones can actually follow",
+        "Confidence that your wishes will be honored",
+        "A trusted attorney you can call for life's next chapter",
+        "Documents stored securely and reviewed every three years"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "After years of procrastinating, Hargrove & Finch made our estate plan feel manageable — even simple. We finally feel like responsible parents.",
+        "author": "Rachel M.",
+        "role": "Portland, OR"
+      },
+      {
+        "quote": "When my mother passed, their probate team handled everything with such care. They treated us like family, not case numbers.",
+        "author": "David K.",
+        "role": "Beaverton, OR"
+      }
+    ],
+    "contact": {
+      "phone": "(503) 555-0142",
+      "email": "hello@hargrovefinch.com",
+      "address": "1204 SW Morrison Street, Suite 800, Portland, OR 97205",
+      "hours": "Mon-Fri 8:30am-5:30pm",
+      "businessType": "LegalService"
+    },
+    "seo": {
+      "title": "Hargrove & Finch Law — Portland Estate Planning",
+      "description": "Portland estate planning and family law attorneys with 20+ years protecting Oregon families. Fixed fees, plain English, plans that work."
+    }
+  }
+}
